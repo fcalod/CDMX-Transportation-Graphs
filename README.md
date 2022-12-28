@@ -6,10 +6,20 @@
 |              |                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------|
 | **Author:**  | Fabio G. Calo Dizy                                                                               |
-| **License:** | [MIT]([https://opensource.org/licenses/BSD-3-Clause](https://choosealicense.com/licenses/mit/))  |
+| **License:** | [MIT](https://opensource.org/licenses/BSD-3-Clause](https://choosealicense.com/licenses/mit/)    |
+
+##### Note: the app is currently only available in spanish.
 
 ## Contents
 
+
+### Metro
+
+
+### Metrobús
+
+
+### 
 
 ## Use
 Download this repo as a zip file, open "Shiny App.R" using RStudio and click on "Run App". 
