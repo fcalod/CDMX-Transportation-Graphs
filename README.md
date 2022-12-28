@@ -14,23 +14,36 @@
 Here's a sample of some of the visualizations included in the app. Most of them are interactive.
 
 ### Metro
-![metro_af](screenshots/3-Metro-Af-Prom.PNG)
+![metro_af_prom](screenshots/2-Metro-Af-Prom.PNG)
+
+![metro_af_tot](screenshots/2-Metro-Af-Tot.PNG)
+
+![metro_zonas](screenshots/2-Metro-Zonas.PNG)
 
 ### Metrobús
+![mb_af_prom](screenshots/3-Mb-Af-Prom.PNG)
 
+![mb_af_tot](screenshots/3-Mb-Af-Tot.PNG)
+
+![mb_zonas](screenshots/3-Mb-Zonas.PNG)
 
 ### Private Transport
+![priv_vial](screenshots/4-Priv-Vial.PNG)
 
+![priv_rank](screenshots/4-Priv-Rank.PNG)
 
 ### Effects of the Pandemic
+![pand_metro](screenshots/5-Pand-Metro.PNG)
 
+![pand_metro](screenshots/5-Pand-Mb.PNG)
+
+![pand_metro](screenshots/5-Pand-Priv.PNG)
 
 ### Pollution
-
+![cont](screenshots/6-Cont.PNG)
 
 ### Miscellaneous
-
-
+![misc](screenshots/7-Misc-Zonas.PNG)
 
 ## Use
 Download this repo as a zip file, open "Shiny App.R" using RStudio and click on "Run App". 
