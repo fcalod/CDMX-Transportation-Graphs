@@ -1,0 +1,52 @@
+########################################################
+##################### Tránsito #########################
+########################################################
+
+# Afluencia metro simple 08/2022
+
+# Afluencia metrobús simple 08/2022
+
+# ONU - SDG Transporte
+https://sdgs.un.org/topics/sustainable-transport
+
+# Datos SEMOVI
+https://datos.cdmx.gob.mx/group/movilidad?page=2
+
+# Artículo transporte público
+https://ciudadesytransporte.mx/transporte-publico/
+
+# Cambios porcentuales en transporte privado
+https://datos.cdmx.gob.mx/dataset/movilidad-historico-covid-19
+
+# Vías comunicación INEGI
+www.inegi.org.mx/temas/viascomunicacion/
+
+# Cantidad de coches por año en la CDMX
+https://www.inegi.org.mx/app/descarga/
+
+########################################################
+################### Contaminación ######################
+########################################################
+
+# Calidad aire CDMX
+http://www.aire.cdmx.gob.mx/default.php?opc=%27aqBhnmOkZA==%27
+
+# Implicaciones ambientales
+https://imt.mx/archivos/Publicaciones/PublicacionTecnica/pt372.pdf
+
+# Artículos contaminación
+https://www.elfinanciero.com.mx/nacional/transporte-publico-y-de-carga-causa-80-de-la-contaminacion-expertos/
+vanguardia.com.mx/noticias/nacional/afirman-que-transporte-en-cdmx-es-de-los-principales-culpables-de-la-contaminacion-ESVG3460037
+
+########################################################
+http://www.ub.edu/geocrit/sn/sn-273.htm
+https://books.google.com.mx/books?hl=en&lr=&id=z2b8y94Rq8YC&oi=fnd&pg=PA21&dq=transporte+mexico&ots=3Ocr8SsyCx&sig=hhQX0DmsjJCUCBOXGpAo79WCQwQ&redir_esc=y#v=onepage&q=transporte%20mexico&f=false
+
+# Obtener coordenadas
+https://www.123coordenadas.com/coordinates/
+
+########################################################
+###################### Archivos ########################
+########################################################
+
+
