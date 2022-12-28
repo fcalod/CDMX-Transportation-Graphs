@@ -3,6 +3,7 @@
 - [Use](#use)
 - [Credits and Support](#credits-and-support)
 
+|              |                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------|
 | **Author:**  | Fabio G. Calo Dizy                                                                               |
 | **License:** | [MIT]([https://opensource.org/licenses/BSD-3-Clause](https://choosealicense.com/licenses/mit/))  |
