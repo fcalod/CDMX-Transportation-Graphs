@@ -8,7 +8,8 @@
 | **Author:**  | Fabio G. Calo Dizy                                                                               |
 | **License:** | [MIT](https://opensource.org/licenses/BSD-3-Clause](https://choosealicense.com/licenses/mit/)    |
 
-##### Note: the app is currently only available in spanish.
+###### Note: the app is currently only available in spanish.
+Note: the app is currently only available in spanish.
 
 ## Contents
 
