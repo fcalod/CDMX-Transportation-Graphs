@@ -14,7 +14,7 @@
 Here's a sample of some of the visualizations included in the app. Most of them are interactive.
 
 ### Metro
-![metro_af](screenshots/1 - Home.png)
+![metro_af](screenshots/3-Metro-Af-Prom.png)
 
 ### Metrobús
 
