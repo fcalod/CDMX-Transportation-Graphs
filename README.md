@@ -1,7 +1,7 @@
 # CDMX Transportation Graphs
 - [Contents](#contents)
 - [Use](#use)
-- [Credits and Support](#credits-and-support)
+- [Sources and Support](#sources-and-support)
 
 |              |                                                                                                  |
 |--------------|--------------------------------------------------------------------------------------------------|
@@ -20,7 +20,8 @@ are installed.
 Data used:
 
 - Metro and Metrobús: SEMOVI (https://datos.cdmx.gob.mx/dataset/afluencia-diaria-del-metro-cdmx and https://datos.cdmx.gob.mx/dataset/afluencia-diaria-de-metrobus-cdmx)
-- A
+- Private transport:  Waze (https://datos.cdmx.gob.mx/dataset/movilidad-historico-covid-19) and TomTom (https://corporate.tomtom.com/static-files/7b98ada1-ec2c-4da0-8579-f83ac0f31d88)
 - Pollution: INEGI (https://www.inegi.org.mx/temas/ee/)
 - Geographic data: Google Maps and geojson.io
 
+For any suggestions, bug reports or inquiries, contact me at fcalodizy@gmail.com.
