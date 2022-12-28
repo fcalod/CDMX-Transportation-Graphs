@@ -11,15 +11,26 @@
 ###### Note: the app is currently only available in spanish.
 
 ## Contents
-
+Here's a sample of some of the visualizations included in the app. Most of them are interactive.
 
 ### Metro
-
+![metro_af](screenshots/1 - Home.png)
 
 ### Metrobús
 
 
-### 
+### Private Transport
+
+
+### Effects of the Pandemic
+
+
+### Pollution
+
+
+### Miscellaneous
+
+
 
 ## Use
 Download this repo as a zip file, open "Shiny App.R" using RStudio and click on "Run App". 
