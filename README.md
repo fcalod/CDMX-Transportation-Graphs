@@ -46,7 +46,7 @@ Here's a sample of some of the visualizations included in the app. Most of them 
 ![misc](screenshots/7-Misc-Zonas.PNG)
 
 ## Use
-Download this repo as a zip file, open "Shiny App.R" using RStudio and click on "Run App". 
+Download this repo, open "Shiny App.R" using RStudio and click on "Run App". 
 The app will open in a browser tab. Make sure all the libraries listed at the top of the file
 are installed.
 
